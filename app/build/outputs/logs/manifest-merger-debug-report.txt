@@ -1,0 +1,154 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\lunar\AndroidStudioProjects\dicee\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\lunar\AndroidStudioProjects\dicee\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\lunar\AndroidStudioProjects\dicee\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\lunar\AndroidStudioProjects\dicee\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\lunar\.gradle\caches\transforms-2\files-2.1\1033032924a1228b6eb1754d779adf5c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\lunar\.gradle\caches\transforms-2\files-2.1\9e920fbbb871e66590bbb9e21279722a\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\lunar\.gradle\caches\transforms-2\files-2.1\1540c70edd88f06a154d99f87fbe6bda\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\lunar\.gradle\caches\transforms-2\files-2.1\4f5a9f91a13f9301f3e7bf45f51dc521\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\lunar\.gradle\caches\transforms-2\files-2.1\1a921783324cd7632d1963ef590e66d5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\lunar\.gradle\caches\transforms-2\files-2.1\cec21bcc45a21c41a6c2e3d100a56d51\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\lunar\.gradle\caches\transforms-2\files-2.1\1de8815fb96586b78027b5c396b60642\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\lunar\.gradle\caches\transforms-2\files-2.1\e613d08d208a627abbcc990b3f0897e1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\lunar\.gradle\caches\transforms-2\files-2.1\db8e373436575b3c724fcab03c962a09\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\lunar\.gradle\caches\transforms-2\files-2.1\09a585642d39cba602afe374cfeab535\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\lunar\.gradle\caches\transforms-2\files-2.1\f19c1c08e140b9573ce0721d1baad34a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\lunar\.gradle\caches\transforms-2\files-2.1\80603060ccdc68e3305dadf745070fd9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\lunar\.gradle\caches\transforms-2\files-2.1\f72c14a4c4ca1a56c81d8a5c67d9f295\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\lunar\.gradle\caches\transforms-2\files-2.1\870fbcc1cf9acda1fe4a7a6dd07f1e63\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\lunar\.gradle\caches\transforms-2\files-2.1\27061dcbfc404bcc94528f5648deafa6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] C:\Users\lunar\.gradle\caches\transforms-2\files-2.1\cd01b7461176303ac9ca1fee00d987b7\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\lunar\.gradle\caches\transforms-2\files-2.1\ce559dc3c733e0ddf7fa716284e7e73f\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\lunar\.gradle\caches\transforms-2\files-2.1\007bcf4f3cc907594b5a89eeb22d7b6d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\lunar\.gradle\caches\transforms-2\files-2.1\5caaa225968506861c41f27391d17da5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\lunar\.gradle\caches\transforms-2\files-2.1\5cf24b611cb15e6a95f248de81c58c52\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\lunar\.gradle\caches\transforms-2\files-2.1\b0c5db3a1002c1ffac37ee0c5d49778a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\lunar\.gradle\caches\transforms-2\files-2.1\0fa7a70fcbc14a32f00118621d69803d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\lunar\.gradle\caches\transforms-2\files-2.1\d24dcc596cfa43314b3ff9a8a67cf400\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\lunar\.gradle\caches\transforms-2\files-2.1\3ad6ba714aaad09aa615aa1787a9ca93\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\lunar\.gradle\caches\transforms-2\files-2.1\70d5f338428c89748a38da7d8f48e804\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\lunar\.gradle\caches\transforms-2\files-2.1\9abdb23fec6c59a41129076bdfecffa9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\lunar\.gradle\caches\transforms-2\files-2.1\b1d439b271ca8ec91af70f72f968514c\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\lunar\AndroidStudioProjects\dicee\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\lunar\AndroidStudioProjects\dicee\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\lunar\AndroidStudioProjects\dicee\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from C:\Users\lunar\AndroidStudioProjects\dicee\app\src\main\AndroidManifest.xml:3:5-34
+		INJECTED from C:\Users\lunar\AndroidStudioProjects\dicee\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\lunar\AndroidStudioProjects\dicee\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\lunar\AndroidStudioProjects\dicee\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\lunar\AndroidStudioProjects\dicee\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\lunar\AndroidStudioProjects\dicee\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\lunar\AndroidStudioProjects\dicee\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\lunar\AndroidStudioProjects\dicee\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\lunar\AndroidStudioProjects\dicee\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\lunar\AndroidStudioProjects\dicee\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\lunar\AndroidStudioProjects\dicee\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\lunar\.gradle\caches\transforms-2\files-2.1\9e920fbbb871e66590bbb9e21279722a\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\lunar\.gradle\caches\transforms-2\files-2.1\9e920fbbb871e66590bbb9e21279722a\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.0.1] C:\Users\lunar\.gradle\caches\transforms-2\files-2.1\cd01b7461176303ac9ca1fee00d987b7\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] C:\Users\lunar\.gradle\caches\transforms-2\files-2.1\cd01b7461176303ac9ca1fee00d987b7\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\lunar\.gradle\caches\transforms-2\files-2.1\ce559dc3c733e0ddf7fa716284e7e73f\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\lunar\.gradle\caches\transforms-2\files-2.1\ce559dc3c733e0ddf7fa716284e7e73f\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] C:\Users\lunar\.gradle\caches\transforms-2\files-2.1\cd01b7461176303ac9ca1fee00d987b7\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from C:\Users\lunar\AndroidStudioProjects\dicee\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\lunar\AndroidStudioProjects\dicee\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\lunar\AndroidStudioProjects\dicee\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\lunar\AndroidStudioProjects\dicee\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\lunar\AndroidStudioProjects\dicee\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\lunar\AndroidStudioProjects\dicee\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.semantics.dicee.MainActivity
+ADDED from C:\Users\lunar\AndroidStudioProjects\dicee\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\lunar\AndroidStudioProjects\dicee\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\lunar\AndroidStudioProjects\dicee\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\lunar\AndroidStudioProjects\dicee\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\lunar\AndroidStudioProjects\dicee\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\lunar\AndroidStudioProjects\dicee\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\lunar\AndroidStudioProjects\dicee\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from C:\Users\lunar\AndroidStudioProjects\dicee\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\lunar\AndroidStudioProjects\dicee\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\lunar\AndroidStudioProjects\dicee\app\src\main\AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\lunar\.gradle\caches\transforms-2\files-2.1\1033032924a1228b6eb1754d779adf5c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\lunar\.gradle\caches\transforms-2\files-2.1\1033032924a1228b6eb1754d779adf5c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\lunar\.gradle\caches\transforms-2\files-2.1\9e920fbbb871e66590bbb9e21279722a\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\lunar\.gradle\caches\transforms-2\files-2.1\9e920fbbb871e66590bbb9e21279722a\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\lunar\.gradle\caches\transforms-2\files-2.1\1540c70edd88f06a154d99f87fbe6bda\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\lunar\.gradle\caches\transforms-2\files-2.1\1540c70edd88f06a154d99f87fbe6bda\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\lunar\.gradle\caches\transforms-2\files-2.1\4f5a9f91a13f9301f3e7bf45f51dc521\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\lunar\.gradle\caches\transforms-2\files-2.1\4f5a9f91a13f9301f3e7bf45f51dc521\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\lunar\.gradle\caches\transforms-2\files-2.1\1a921783324cd7632d1963ef590e66d5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\lunar\.gradle\caches\transforms-2\files-2.1\1a921783324cd7632d1963ef590e66d5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\lunar\.gradle\caches\transforms-2\files-2.1\cec21bcc45a21c41a6c2e3d100a56d51\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\lunar\.gradle\caches\transforms-2\files-2.1\cec21bcc45a21c41a6c2e3d100a56d51\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\lunar\.gradle\caches\transforms-2\files-2.1\1de8815fb96586b78027b5c396b60642\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\lunar\.gradle\caches\transforms-2\files-2.1\1de8815fb96586b78027b5c396b60642\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\lunar\.gradle\caches\transforms-2\files-2.1\e613d08d208a627abbcc990b3f0897e1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\lunar\.gradle\caches\transforms-2\files-2.1\e613d08d208a627abbcc990b3f0897e1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\lunar\.gradle\caches\transforms-2\files-2.1\db8e373436575b3c724fcab03c962a09\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\lunar\.gradle\caches\transforms-2\files-2.1\db8e373436575b3c724fcab03c962a09\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\lunar\.gradle\caches\transforms-2\files-2.1\09a585642d39cba602afe374cfeab535\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\lunar\.gradle\caches\transforms-2\files-2.1\09a585642d39cba602afe374cfeab535\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\lunar\.gradle\caches\transforms-2\files-2.1\f19c1c08e140b9573ce0721d1baad34a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\lunar\.gradle\caches\transforms-2\files-2.1\f19c1c08e140b9573ce0721d1baad34a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\lunar\.gradle\caches\transforms-2\files-2.1\80603060ccdc68e3305dadf745070fd9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\lunar\.gradle\caches\transforms-2\files-2.1\80603060ccdc68e3305dadf745070fd9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\lunar\.gradle\caches\transforms-2\files-2.1\f72c14a4c4ca1a56c81d8a5c67d9f295\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\lunar\.gradle\caches\transforms-2\files-2.1\f72c14a4c4ca1a56c81d8a5c67d9f295\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\lunar\.gradle\caches\transforms-2\files-2.1\870fbcc1cf9acda1fe4a7a6dd07f1e63\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\lunar\.gradle\caches\transforms-2\files-2.1\870fbcc1cf9acda1fe4a7a6dd07f1e63\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\lunar\.gradle\caches\transforms-2\files-2.1\27061dcbfc404bcc94528f5648deafa6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\lunar\.gradle\caches\transforms-2\files-2.1\27061dcbfc404bcc94528f5648deafa6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\lunar\.gradle\caches\transforms-2\files-2.1\cd01b7461176303ac9ca1fee00d987b7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\lunar\.gradle\caches\transforms-2\files-2.1\cd01b7461176303ac9ca1fee00d987b7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\lunar\.gradle\caches\transforms-2\files-2.1\ce559dc3c733e0ddf7fa716284e7e73f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\lunar\.gradle\caches\transforms-2\files-2.1\ce559dc3c733e0ddf7fa716284e7e73f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\lunar\.gradle\caches\transforms-2\files-2.1\007bcf4f3cc907594b5a89eeb22d7b6d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\lunar\.gradle\caches\transforms-2\files-2.1\007bcf4f3cc907594b5a89eeb22d7b6d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\lunar\.gradle\caches\transforms-2\files-2.1\5caaa225968506861c41f27391d17da5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\lunar\.gradle\caches\transforms-2\files-2.1\5caaa225968506861c41f27391d17da5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\lunar\.gradle\caches\transforms-2\files-2.1\5cf24b611cb15e6a95f248de81c58c52\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\lunar\.gradle\caches\transforms-2\files-2.1\5cf24b611cb15e6a95f248de81c58c52\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\lunar\.gradle\caches\transforms-2\files-2.1\b0c5db3a1002c1ffac37ee0c5d49778a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\lunar\.gradle\caches\transforms-2\files-2.1\b0c5db3a1002c1ffac37ee0c5d49778a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\lunar\.gradle\caches\transforms-2\files-2.1\0fa7a70fcbc14a32f00118621d69803d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\lunar\.gradle\caches\transforms-2\files-2.1\0fa7a70fcbc14a32f00118621d69803d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\lunar\.gradle\caches\transforms-2\files-2.1\d24dcc596cfa43314b3ff9a8a67cf400\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\lunar\.gradle\caches\transforms-2\files-2.1\d24dcc596cfa43314b3ff9a8a67cf400\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\lunar\.gradle\caches\transforms-2\files-2.1\3ad6ba714aaad09aa615aa1787a9ca93\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\lunar\.gradle\caches\transforms-2\files-2.1\3ad6ba714aaad09aa615aa1787a9ca93\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\lunar\.gradle\caches\transforms-2\files-2.1\70d5f338428c89748a38da7d8f48e804\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\lunar\.gradle\caches\transforms-2\files-2.1\70d5f338428c89748a38da7d8f48e804\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\lunar\.gradle\caches\transforms-2\files-2.1\9abdb23fec6c59a41129076bdfecffa9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\lunar\.gradle\caches\transforms-2\files-2.1\9abdb23fec6c59a41129076bdfecffa9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\lunar\.gradle\caches\transforms-2\files-2.1\b1d439b271ca8ec91af70f72f968514c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\lunar\.gradle\caches\transforms-2\files-2.1\b1d439b271ca8ec91af70f72f968514c\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\lunar\AndroidStudioProjects\dicee\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\lunar\AndroidStudioProjects\dicee\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\lunar\AndroidStudioProjects\dicee\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\lunar\AndroidStudioProjects\dicee\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\lunar\AndroidStudioProjects\dicee\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\lunar\AndroidStudioProjects\dicee\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\lunar\AndroidStudioProjects\dicee\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\lunar\AndroidStudioProjects\dicee\app\src\main\AndroidManifest.xml
